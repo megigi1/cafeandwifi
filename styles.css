@@ -1,0 +1,25 @@
+/* This CSS file will need to be added to the styling of
+your web pages for the styles to be rendered. */
+
+body {
+background-color: #898AA6;
+color: #C9BBCF;
+}
+
+a {
+    color: #B7D3DF;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  color: #C9BBCF;
+  background-color: #898AA6;
+}
+
+.space-above {
+    margin-top: 20px;
+    padding-top: 20px;
+}
